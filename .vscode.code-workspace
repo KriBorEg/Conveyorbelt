@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": ".vscode",
+			"path": "../../../DTU/C-prog/Code/Conveyoer belt/.vscode"
+		},
+		{
+			"name": "Conveyorbelt",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
